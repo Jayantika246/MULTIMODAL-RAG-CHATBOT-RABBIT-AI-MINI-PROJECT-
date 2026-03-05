@@ -1,4 +1,4 @@
-# Flask RAG Application
+# MULTIMODAL RAG TRAVEL CHATBOT
 
 A comprehensive multimodal RAG (Retrieval-Augmented Generation) travel chatbot using Flask, Groq API, HuggingFace embeddings, FAISS vector store, and BM25 hybrid retrieval.
 

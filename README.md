@@ -85,15 +85,13 @@ Then open http://localhost:5000 in your browser.
 - `ingestion.py` - Text document ingestion
 - `multimodal_ingestion.py` - PDF and image ingestion
 - `pdf_processor.py` - PDF text extraction
-- `image_processor.py` - OCR text extraction (optional Tesseract)
+
 
 ### Frontend
 - `templates/index.html` - Main UI
 - `static/script.js` - Client-side logic
 - `static/style.css` - Travel-themed styling
 
-## Notes
 
-- Image OCR requires Tesseract installation (optional)
-- Without Tesseract, images can still be uploaded but text extraction will be limited
-- All prices are in Indian Rupees (₹)
+
+

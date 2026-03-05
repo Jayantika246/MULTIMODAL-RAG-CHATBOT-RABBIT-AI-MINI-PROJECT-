@@ -1,0 +1,38 @@
+# Environment variables (IMPORTANT: Never commit API keys!)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Database and indexes
+faiss_index/
+bm25_index/
+*.pkl
+*.faiss
+
+# Uploaded files
+static/uploads/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+

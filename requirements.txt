@@ -1,0 +1,10 @@
+flask==3.0.0
+groq==0.4.2
+sentence-transformers==2.3.1
+faiss-cpu==1.7.4
+python-dotenv==1.0.0
+rank-bm25==0.2.2
+PyPDF2==3.0.1
+python-magic-bin==0.4.14
+pytesseract==0.3.10
+Pillow==10.1.0

@@ -22,6 +22,10 @@ bm25_index/
 # Uploaded files
 static/uploads/
 
+# Evaluation results
+evaluation_results.json
+demo_metrics.json
+
 # IDE
 .vscode/
 .idea/

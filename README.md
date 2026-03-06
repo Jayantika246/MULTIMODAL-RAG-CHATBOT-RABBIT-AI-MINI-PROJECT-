@@ -23,7 +23,7 @@ pip install -r requirements.txt
 **Windows:**
 - Download installer from: https://github.com/UB-Mannheim/tesseract/wiki
 - Install to default location: `C:\Program Files\Tesseract-OCR`
-- The app will work without Tesseract, but image OCR will be unavailable
+-
 
 **Linux:**
 ```bash
